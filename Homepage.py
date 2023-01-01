@@ -18,7 +18,7 @@ NAME = "Tyler Chinn"
 DESCRIPTION = """
 Data Analyst Masters Student | Materials Engineering Reliability Testing
 """
-EMAIL = "tyler.chinn@csuglobal.edu"
+EMAIL = ""
 SOCIAL_MEDIA = {
     #"YouTube": "https://youtube.com/c/codingisfun",
     "LinkedIn": "https://linkedin.com",
